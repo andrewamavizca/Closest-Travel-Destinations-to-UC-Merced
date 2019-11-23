@@ -1,0 +1,1103 @@
+Latitude	Longitude	City	Province/State	Country
+82°30N	62°20W	Alert	Nunavut	Canada
+81°36N	16°40W	Nord	Greenland	Denmark
+79°59N	85°56W	Eureka	Nunavut	Canada
+78°55N	11°56E	Ny-Ålesund	Svalbard	Norway
+78°13N	15°39E	Longyearbyen	Svalbard	Norway
+77°28N	69°14W	Qaanaaq	Greenland	Denmark
+76°25N	82°54W	Grise Fiord	Nunavut	Canada
+73°30N	80°31E	Dikson	Krasnoyarsk Krai	Russia
+72°47N	56°09W	Upernavik	Greenland	Denmark
+71°39N	128°52E	Tiksi	Sakha Republic	Russia
+71°32N	52°19E	Belushya Guba	Arkhangelsk Oblast	Russia
+71°18N	156°46W	Barrow	Alaska	United States
+70°59N	25°59E	Honningsvåg	Finnmark	Norway
+70°40N	23°41E	Hammerfest	Finnmark	Norway
+70°12N	148°31W	Deadhorse	Alaska	United States
+70°05N	27°53E	Nuorgam	Lapland	Finland
+70°05N	29°44E	Vadsø	Finnmark	Norway
+69°58N	23°16E	Alta	Finnmark	Norway
+69°54N	27°01E	Utsjoki	Lapland	Finland
+69°43N	30°02E	Kirkenes	Finnmark	Norway
+69°41N	18°57E	Tromsø	Troms	Norway
+69°27N	133°02W	Tuktoyaktuk	Northwest Territories	Canada
+69°20N	88°13E	Norilsk	Krasnoyarsk Krai	Russia
+68°58N	33°05E	Murmansk	Murmansk Oblast	Russia
+68°47N	16°32E	Harstad	Troms	Norway
+68°25N	17°34E	Narvik	Nordland	Norway
+68°21N	133°43W	Inuvik	Northwest Territories	Canada
+67°51N	20°13E	Kiruna	Norrbotten	Sweden
+67°33N	133°23E	Verkhoyansk	Sakha Republic	Russia
+67°18N	14°33E	Bodø	Nordland	Norway
+67°08N	20°40E	Gällivare	Norrbotten	Sweden
+66°43N	27°26E	Kemijärvi	Lapland	Finland
+66°30N	25°44E	Rovaniemi	Lapland	Finland
+66°05N	23°08W	Ísafjörður	Westfjords	Iceland
+65°58N	29°11E	Kuusamo	Northern Ostrobothnia	Finland
+65°51N	24°09E	Tornio	Lapland	Finland
+65°50N	21°43E	Boden	Norrbotten	Sweden
+65°50N	24°08E	Haparanda	Norrbotten	Sweden
+65°44N	24°34E	Kemi	Lapland	Finland
+65°41N	18°06W	Akureyri	Northeastern Region	Iceland
+65°35N	22°09E	Luleå	Norrbotten	Sweden
+65°22N	27°00E	Pudasjärvi	Northern Ostrobothnia	Finland
+65°20N	21°30E	Piteå	Norrbotten	Sweden
+65°01N	25°28E	Oulu	Northern Ostrobothnia	Finland
+64°51N	147°43W	Fairbanks	Alaska	United States
+64°45N	20°57E	Skellefteå	Västerbotten	Sweden
+64°44N	177°31E	Anadyr	Chukotka Autonomous Okrug	Russia
+64°32N	40°32E	Arkhangelsk	Arkhangelsk Oblast	Russia
+64°30N	165°23W	Nome	Alaska	United States
+64°11N	51°44W	Nuuk (Godthåb)	Greenland	Denmark
+64°08N	21°56W	Reykjavík	Capital Region	Iceland
+63°50N	20°16E	Umeå	Västerbotten	Sweden
+63°45N	68°31W	Iqaluit	Nunavut	Canada
+63°29N	11°10E	Stjørdalshalsen	Trøndelag	Norway
+63°26N	10°24E	Trondheim	Trøndelag	Norway
+63°17N	18°44E	Örnsköldsvik	Västernorrland	Sweden
+63°11N	14°40E	Östersund	Jämtland	Sweden
+63°06N	21°37E	Vaasa	Ostrobothnia	Finland
+62°54N	27°41E	Kuopio	Pohjois-Savo	Finland
+62°28N	6°09E	Ålesund	Møre og Romsdal	Norway
+62°27N	114°24W	Yellowknife	Northwest Territories	Canada
+62°24N	17°19E	Sundsvall	Västernorrland	Sweden
+62°15N	25°45E	Jyväskylä	Central Finland	Finland
+62°02N	129°44E	Yakutsk	Sakha Republic	Russia
+62°01N	6°46W	Tórshavn	Faroe Islands	Denmark
+61°47N	34°20W	Petrozavodsk	Karelia	Russia
+61°30N	23°46E	Tampere	Pirkanmaa	Finland
+61°13N	149°54W	Anchorage	Alaska	United States
+61°08N	10°26E	Lillehammer	Oppland	Norway
+60°59N	25°39E	Lahti	Päijät-Häme	Finland
+60°43N	46°02W	Qaqortoq	Greenland	Denmark
+60°43N	135°03W	Whitehorse	Yukon	Canada
+60°27N	22°16E	Turku	Southwest Finland	Finland
+60°23N	5°20E	Bergen	Hordaland	Norway
+60°18N	25°02E	Vantaa	Uusimaa	Finland
+60°15N	1°15W	Lerwick	Shetland	United Kingdom
+60°12N	24°39E	Espoo	Uusimaa	Finland
+60°10N	24°56E	Helsinki	Uusimaa	Finland
+59°57N	10°45E	Oslo	Oslo	Norway
+59°57N	30°18E	Saint Petersburg	N/A	Russia
+59°51N	17°39E	Uppsala	Uppsala County	Sweden
+59°46N	151°13W	Fritz Creek	Alaska	United States
+59°34N	150°48E	Magadan	Magadan Oblast	Russia
+59°26N	24°45E	Tallinn	Harjumaa	Estonia
+59°20N	18°04E	Stockholm	Stockholm County	Sweden
+59°17N	11°12E	Sarpsborg	Østfold	Norway
+59°16N	15°12E	Örebro	Örebro County	Sweden
+59°13N	39°54E	Vologda	Vologda Oblast	Russia
+58°36N	16°12E	Norrköping	Östergötland	Sweden
+58°24N	15°37E	Linköping	Östergötland	Sweden
+58°23N	26°43E	Tartu	Tartumaa	Estonia
+58°18N	134°25W	Juneau	Alaska	United States
+58°29N	8°47E	Arendal	Aust-Agder	Norway
+58°10N	8°00E	Kristiansand	Vest-Agder	Norway
+58°00N	56°19E	Perm	Perm Krai	Russia
+57°46N	26°02E	Valga	Valgamaa	Estonia
+57°42N	11°58E	Gothenburg	Västergötland	Sweden
+57°38N	18°17E	Visby	Gotland	Sweden
+57°37N	39°51E	Yaroslavl	Yaroslavl Oblast	Russia
+57°28N	4°14W	Inverness	Scotland	United Kingdom
+57°09N	2°07W	Aberdeen	Scotland	United Kingdom
+57°03N	135°20W	Sitka	Alaska	United States
+56°57N	24°06E	Riga	N/A	Latvia
+56°50N	53°11E	Izhevsk	Udmurtia	Russia
+56°50N	60°35E	Yekaterinburg	Sverdlovsk Oblast	Russia
+56°44N	111°23W	Fort McMurray	Alberta	Canada
+56°28N	2°58W	Dundee	Scotland	United Kingdom
+56°20N	44°00E	Nizhny Novgorod	Nizhny Novgorod Oblast	Russia
+56°09N	3°56W	Stirling	Scotland	United Kingdom
+56°07N	101°36E	Bratsk	Irkutsk Oblast	Russia
+56°09N	10°13E	Aarhus	Central Denmark Region	Denmark
+56°01N	93°04E	Krasnoyarsk	Krasnoyarsk Krai	Russia
+55°57N	3°11W	Edinburgh	Scotland	United Kingdom
+55°51N	4°16W	Glasgow	Scotland	United Kingdom
+55°47N	49°08E	Kazan	Tatarstan	Russia
+55°45N	37°37E	Moscow	N/A	Russia
+55°41N	12°34E	Copenhagen	Capital Region of Denmark	Denmark
+55°35N	13°02E	Malmö	Skåne County	Sweden
+55°29N	8°27E	Esbjerg	Region of Southern Denmark	Denmark
+55°24N	10°23E	Odense	Region of Southern Denmark	Denmark
+55°10N	118°48W	Grande Prairie	Alberta	Canada
+55°09N	61°23E	Chelyabinsk	Chelyabinsk Oblast	Russia
+55°01N	82°56E	Novosibirsk	Novosibirsk Oblast	Russia
+55°00N	7°18W	Derry	Northern Ireland	United Kingdom
+54°59N	73°22E	Omsk	Omsk Oblast	Russia
+54°58N	1°37W	Newcastle upon Tyne	England	United Kingdom
+54°54N	1°23W	Sunderland	England	United Kingdom
+54°53N	69°10E	Petropavl	North Kazakhstan	Kazakhstan
+54°47N	9°26E	Flensburg	Schleswig-Holstein	Germany
+54°45N	55°58E	Ufa	Bashkortostan	Russia
+54°43N	20°31E	Kaliningrad	Kaliningrad Oblast	Russia
+54°41N	25°17E	Vilnius	Vilnius	Lithuania
+54°36N	5°56W	Belfast	Northern Ireland	United Kingdom
+54°34N	1°14W	Middlesbrough	England	United Kingdom
+54°30N	18°33E	Gdynia	Pomeranian Voivodeship	Poland
+54°22N	18°38E	Gdask	Pomeranian Voivodeship	Poland
+54°20N	10°08E	Kiel	Schleswig-Holstein	Germany
+54°09N	4°29W	Douglas	Isle of Man	United Kingdom
+54°05N	12°08E	Rostock	Mecklenburg-Vorpommern	Germany
+54°03N	2°48W	Lancaster	England	United Kingdom
+53°58N	1°05W	York	England	United Kingdom
+53°55N	122°44W	Prince George	British Columbia	Canada
+53°54N	27°34E	Minsk	N/A	Belarus
+53°48N	1°45W	Bradford	England	United Kingdom
+53°48N	1°33W	Leeds	England	United Kingdom
+53°34N	10°00E	Hamburg	Hamburg	Germany
+53°32N	113°30W	Edmonton	Alberta	Canada
+53°31N	49°25E	Tolyatti	Samara Oblast	Russia
+53°28N	2°14W	Manchester	England	United Kingdom
+53°24N	2°59W	Liverpool	England	United Kingdom
+53°23N	1°28W	Sheffield	England	United Kingdom
+53°21N	6°16W	Dublin	Leinster	Ireland
+53°13N	6°33E	Groningen	Groningen	Netherlands
+53°12N	50°08E	Samara	Samara Oblast	Russia
+53°05N	8°48E	Bremen	Bremen	Germany
+53°01N	158°39E	Petropavlovsk-Kamchatsky	Kamchatka Krai	Russia
+52°57N	1°08W	Nottingham	England	United Kingdom
+52°55N	1°28W	Derby	England	United Kingdom
+52°38N	1°08W	Leicester	England	United Kingdom
+52°38N	1°18E	Norwich	England	United Kingdom
+52°35N	0°15W	Peterborough	England	United Kingdom
+52°31N	13°23E	Berlin	Berlin	Germany
+52°29N	1°54W	Birmingham	England	United Kingdom
+52°26N	30°59E	Gomel	Gomel Voblast	Belarus
+52°24N	1°31W	Coventry	England	United Kingdom
+52°24N	16°55E	Pozna	Greater Poland	Poland
+52°23N	4°38E	Haarlem	North Holland	Netherlands
+52°22N	4°54E	Amsterdam	North Holland	Netherlands
+52°22N	9°43E	Hannover	Lower Saxony	Germany
+52°19N	104°18E	Irkutsk	Irkutsk Oblast	Russia
+52°14N	21°01E	Warsaw	Masovian Voivodship	Poland
+52°13N	6°54E	Enschede	Overijssel	Netherlands
+52°12N	0°07E	Cambridge	England	United Kingdom
+52°10N	4°29E	Leiden	South Holland	Netherlands
+52°08N	106°41W	Saskatoon	Saskatchewan	Canada
+52°06N	5°07E	Utrecht	Utrecht	Netherlands
+52°05N	4°19E	The Hague	South Holland	Netherlands
+51°57N	7°37E	Münster	North Rhine-Westphalia	Germany
+51°56N	4°29E	Rotterdam	South Holland	Netherlands
+51°54N	8°28W	Cork	Munster	Ireland
+51°53N	176°39W	Adak	Alaska	United States
+51°52N	2°14W	Gloucester	England	United Kingdom
+51°45N	1°15W	Oxford	England	United Kingdom
+51°40N	39°13E	Voronezh	Voronezh Oblast	Russia
+51°37N	3°57W	Swansea	Wales	United Kingdom
+51°32N	46°01E	Saratov	Saratov Oblast	Russia
+51°31N	7°28E	Dortmund	North Rhine-Westphalia	Germany
+51°30N	0°08W	London	England	United Kingdom
+51°29N	3°11W	Cardiff	Wales	United Kingdom
+51°29N	0°00W	Greenwich	England	United Kingdom
+51°27N	2°35W	Bristol	England	United Kingdom
+51°23N	2°22W	Bath	England	United Kingdom
+51°20N	12°23E	Leipzig	Saxony	Germany
+51°14N	6°47E	Düsseldorf	North Rhine-Westphalia	Germany
+51°13N	4°24E	Antwerp	Flanders	Belgium
+51°10N	71°26E	Astana	N/A	Kazakhstan
+51°06N	1°30E	Winchester	England	United Kingdom
+51°03N	114°04W	Calgary	Alberta	Canada
+51°03N	3°44E	Ghent	Flanders	Belgium
+51°02N	13°44E	Dresden	Saxony	Germany
+50°59N	11°02E	Erfurt	Thuringia	Germany
+50°57N	1°51E	Calais	N/A	France
+50°56N	6°58E	Cologne	North Rhine-Westphalia	Germany
+50°54N	1°24W	Southampton	England	United Kingdom
+50°51N	5°41E	Maastricht	Limburg (Netherlands)	Netherlands
+50°51N	4°21E	Brussels	Brussels	Belgium
+50°50N	0°09W	Brighton and Hove	England	United Kingdom
+50°49N	1°05W	Portsmouth	England	United Kingdom
+50°43N	3°32W	Exeter	England	United Kingdom
+50°41N	120°20W	Kamloops	British Columbia	Canada
+50°38N	3°03E	Lille	Hauts-de-France	France
+50°27N	104°36W	Regina	Saskatchewan	Canada
+50°27N	30°31E	Kiev	Kiev Oblast	Ukraine
+50°24N	4°26E	Charleroi	N/A	Belgium
+50°22N	4°09W	Plymouth	England	United Kingdom
+50°07N	8°41E	Frankfurt am Main	Hesse	Germany
+50°05N	14°25E	Prague	N/A	Czech Republic
+50°04N	19°56E	Kraków	Lesser Poland	Poland
+50°00N	36°14E	Kharkiv	Kharkiv Oblast	Ukraine
+49°54N	97°08W	Winnipeg	Manitoba	Canada
+49°53N	119°30W	Kelowna	British Columbia	Canada
+49°51N	24°01E	Lviv	Lviv Oblast	Ukraine
+49°37N	6°07E	Luxembourg	N/A	Luxembourg
+49°29N	0°06E	Le Havre	Normandy	France
+49°27N	11°05E	Nuremberg	Bavaria	Germany
+49°26N	1°06E	Rouen	Normandy	France
+49°15N	123°06W	Vancouver	British Columbia	Canada
+48°51N	2°21E	Paris	Île-de-France	France
+48°47N	9°11E	Stuttgart	Baden-Württemberg	Germany
+48°45N	122°29W	Bellingham	Washington	United States
+48°42N	44°31E	Volgograd	Volgograd Oblast	Russia
+48°35N	7°45E	Strasbourg	Grand Est	France
+48°24N	34°59E	Dnipro	N/A	Ukraine
+48°26N	123°22W	Victoria	British Columbia	Canada
+48°25N	71°04W	Saguenay	Quebec	Canada
+48°23N	4°29W	Brest	Brittany	France
+48°23N	89°15W	Thunder Bay	Ontario	Canada
+48°18N	14°17E	Linz	Upper Austria	Austria
+48°13N	16°22E	Vienna	Vienna	Austria
+48°09N	17°07E	Bratislava	N/A	Slovakia
+48°08N	11°34E	Munich	Bavaria	Germany
+48°00N	37°48E	Donetsk	Donetsk Oblast	Ukraine
+47°55N	106°55E	Ulaanbaatar	N/A	Mongolia
+47°54N	1°55E	Orléans	N/A	France
+47°48N	13°02E	Salzburg	Salzburg	Austria
+47°37N	122°20W	Seattle	Washington	United States
+47°34N	52°42W	St. John's	Newfoundland and Labrador	Canada
+47°34N	7°36E	Basel	N/A	Switzerland
+47°28N	19°03E	Budapest	N/A	Hungary
+47°26N	123°27E	Qiqihar	Heilongjiang	People's Republic of China
+47°22N	8°33E	Zürich	N/A	Switzerland
+47°16N	11°23E	Innsbruck	Tyrol	Austria
+47°14N	39°42E	Rostov-on-Don	Rostov Oblast	Russia
+47°13N	1°33W	Nantes	Pays de la Loire	France
+47°08N	9°31E	Vaduz	N/A	Liechtenstein
+47°07N	51°53E	Atyrau	Atyrau Region	Kazakhstan
+47°04N	15°26E	Graz	Styria	Austria
+47°00N	28°55E	Chiinu	N/A	Moldova
+46°57N	7°27E	Bern	N/A	Switzerland
+46°51N	29°38E	Tiraspol	Transnistria	Moldova
+46°49N	71°13W	Quebec City	Quebec	Canada
+46°49N	100°47W	Bismarck	North Dakota	United States
+46°48N	92°06W	Duluth	Minnesota	United States
+46°47N	56°11W	Saint-Pierre	Saint Pierre and Miquelon	France
+46°46N	23°35E	Cluj-Napoca	Cluj County	Romania
+46°44N	117°00W	Moscow	Idaho	United States
+46°36N	112°02W	Helena	Montana	United States
+46°32N	84°21W	Sault Ste. Marie	Ontario	Canada
+46°31N	6°38E	Lausanne	Vaud	Switzerland
+46°29N	81°01W	Sudbury	Ontario	Canada
+46°28N	30°44E	Odessa	Odessa Oblast	Ukraine
+46°18N	79°27W	North Bay	Ontario	Canada
+46°14N	63°09W	Charlottetown	Prince Edward Island	Canada
+46°12N	6°09E	Geneva	N/A	Switzerland
+46°08N	64°46W	Moncton	New Brunswick	Canada
+46°03N	14°31E	Ljubljana	N/A	Slovenia
+45°57N	66°40W	Fredericton	New Brunswick	Canada
+45°49N	15°59E	Zagreb	N/A	Croatia
+45°46N	4°51E	Lyon	Auvergne-Rhône-Alpes	France
+45°45N	126°38E	Harbin	Heilongjiang	People's Republic of China
+45°36N	62°39W	New Glasgow	Nova Scotia	Canada
+45°31N	122°41W	Portland	Oregon	United States
+45°30N	73°34W	Montreal	Quebec	Canada
+45°28N	9°11E	Milan	Lombardy	Italy
+45°26N	12°20E	Venice	Veneto	Italy
+45°25N	75°41W	Ottawa	Ontario	Canada
+45°25N	141°40E	Wakkanai	Hokkaido	Japan
+45°17N	66°05W	Saint John	New Brunswick	Canada
+45°15N	19°51E	Novi Sad	Vojvodina	Serbia
+45°04N	7°42E	Turin	Piedmont	Italy
+45°02N	38°58E	Krasnodar	Krasnodar Krai	Russia
+44°59N	93°16W	Minneapolis	Minnesota	United States
+44°57N	34°06E	Simferopol	Crimea	Ukraine Russia (disputed)
+44°51N	63°12W	Halifax	Nova Scotia	Canada
+44°50N	0°35W	Bordeaux	Nouvelle-Aquitaine	France
+44°49N	20°28E	Belgrade	N/A	Serbia
+44°45N	19°42E	Šabac	N/A	Serbia
+44°38N	22°39E	Drobeta Turnu Severin	Mehedinti County	Romania
+44°30N	11°21E	Bologna	Emilia-Romagna	Italy
+44°26N	26°06E	Bucharest	N/A	Romania
+44°25N	12°12E	Ravenna	Emilia-Romagna	Italy
+44°24N	8°55E	Genoa	Liguria	Italy
+44°22N	100°20W	Pierre	South Dakota	United States
+44°20N	23°49E	Craiova	N/A	Romania
+44°19N	69°47W	Augusta	Maine	United States
+44°15N	72°34W	Montpelier	Vermont	United States
+43°55N	69°49W	Bath	Maine	United States
+43°56N	12°27E	San Marino	N/A	San Marino
+43°54N	125°12E	Changchun	Jilin	People's Republic of China
+43°51N	18°21E	Sarajevo	N/A	Bosnia and Herzegovina
+43°50N	66°07W	Yarmouth	Nova Scotia	Canada
+43°50N	87°36E	Ürümqi	Xinjiang	People's Republic of China
+43°47N	11°15E	Florence	Tuscany	Italy
+43°46N	142°22E	Asahikawa	Hokkaido	Japan
+43°44N	7°25E	Monaco	N/A	Monaco
+43°42N	7°16E	Nice	Provence-Alpes-Côte d'Azur	France
+43°42N	79°24W	Toronto	Ontario	Canada
+43°37N	116°12W	Boise	Idaho	United States
+43°36N	1°27E	Toulouse	Occitanie	France
+43°35N	39°43E	Sochi	Krasnodar Krai	Russia
+43°33N	7°01E	Cannes	Provence-Alpes-Côte d'Azur	France
+43°32N	5°39W	Gijón	Principado de Asturias	Spain
+43°32N	96°43W	Sioux Falls	South Dakota	United States
+43°30N	16°26E	Split	N/A	Croatia
+43°21N	5°50W	Oviedo	Principado de Asturias	Spain
+43°20N	145°35E	Nemuro	Hokkaido	Japan
+43°19N	2°00W	San Sebastián	Basque Country	Spain
+43°18N	5°22E	Marseille	Provence-Alpes-Côte d'Azur	France
+43°17N	76°54E	Almaty	N/A	Kazakhstan
+43°15N	2°55W	Bilbao	Basque Country	Spain
+43°12N	71°32W	Concord	New Hampshire	United States
+43°10N	77°37W	Rochester	New York	United States
+43°08N	131°54E	Vladivostok	Primorsky Krai	Russia
+43°04N	141°21E	Sapporo	Hokkaido	Japan
+43°03N	87°57W	Milwaukee	Wisconsin	United States
+43°00N	41°01E	Sukhumi	Abkhazia	Georgia Abkhazia (disputed)
+42°59N	144°23E	Kushiro	Hokkaido	Japan
+42°59N	81°15W	London	Ontario	Canada
+42°56N	10°46E	Follonica	Tuscany	Italy
+42°55N	143°12E	Obihiro	Hokkaido	Japan
+42°54N	78°51W	Buffalo	New York	United States
+42°53N	8°32W	Santiago de Compostela	Galicia	Spain
+42°52N	74°37E	Bishkek	N/A	Kyrgyzstan
+42°51N	2°41W	Vitoria-Gasteiz	Basque Country	Spain
+42°42N	23°20E	Sofia	N/A	Bulgaria
+42°40N	21°10E	Pristina	Kosovo	Serbia Kosovo (disputed)
+42°30N	1°30E	Andorra la Vella	N/A	Andorra
+42°28N	59°36E	Nukus	Karakalpakstan	Uzbekistan
+42°26N	19°16E	Podgorica	N/A	Montenegro
+42°21N	71°04W	Boston	Massachusetts	United States
+42°20N	83°03W	Detroit	Michigan	United States
+42°17N	83°00W	Windsor	Ontario	Canada
+42°14N	8°43W	Vigo	Galicia	Spain
+42°14N	43°58E	Tskhinvali	South Ossetia	Georgia South Ossetia (disputed)
+42°02N	13°25E	Avezzano	Abruzzo	Italy
+42°00N	21°26E	Skopje	N/A	Macedonia
+41°59N	82°56W	Colchester	Ontario	Canada
+41°54N	12°30E	Rome	Lazio	Italy
+41°54N	12°27E	Vatican City	N/A	Vatican City
+41°53N	87°38W	Chicago	Illinois	United States
+41°49N	71°25W	Providence	Rhode Island	United States
+41°48N	123°24E	Shenyang	Liaoning	People's Republic of China
+41°48N	129°47E	Chongjin	North Hamgyong	North Korea
+41°46N	72°40W	Hartford	Connecticut	United States
+41°46N	140°44E	Hakodate	Hokkaido	Japan
+41°43N	44°47E	Tbilisi	N/A	Georgia
+41°40N	4°43W	Valladolid	Castile and León	Spain
+41°39N	0°53W	Zaragoza	Aragon	Spain
+41°35N	93°37W	Des Moines	Iowa	United States
+41°33N	8°25W	Braga	Braga District	Portugal
+41°29N	81°40W	Cleveland	Ohio	United States
+41°23N	2°11E	Barcelona	Catalonia	Spain
+41°20N	19°49E	Tirana	N/A	Albania
+41°16N	69°13E	Tashkent	N/A	Uzbekistan
+41°10N	8°37W	Porto	N/A	Portugal
+41°09N	104°48W	Cheyenne	Wyoming	United States
+41°07N	16°52E	Bari	Apulia	Italy
+41°05N	85°08W	Fort Wayne	Indiana	United States
+41°01N	28°57E	Istanbul	N/A	Turkey
+41°00N	39°44E	Trabzon	N/A	Turkey
+41°00N	71°40E	Namangan	N/A	Uzbekistan
+40°51N	14°16E	Naples	Campania	Italy
+40°49N	140°45E	Aomori	Aomori	Japan
+40°49N	96°41W	Lincoln	Nebraska	United States
+40°48N	124°09W	Eureka	California	United States
+40°45N	111°53W	Salt Lake City	Utah	United States
+40°43N	74°04W	Jersey City	New Jersey	United States
+40°40N	73°56W	New York City	New York	United States
+40°39N	22°54E	Thessaloniki	N/A	Greece
+41°37N	0°38E	Lleida	Catalonia	Spain
+40°27N	80°00W	Pittsburgh	Pennsylvania	United States
+40°24N	49°53E	Baku	N/A	Azerbaijan
+40°23N	3°43W	Madrid	Madrid	Spain
+40°13N	74°46W	Trenton	New Jersey	United States
+40°11N	29°03E	Bursa	N/A	Turkey
+40°11N	44°31E	Yerevan	N/A	Armenia
+40°01N	105°17W	Boulder	Colorado	United States
+39°59N	82°59W	Columbus	Ohio	United States
+39°56N	32°52E	Ankara	N/A	Turkey
+39°57N	75°10W	Philadelphia	Pennsylvania	United States
+39°55N	116°23E	Beijing	N/A	People's Republic of China
+39°49N	46°45E	Stepanakert	Artsakh	Azerbaijan Artsakh (disputed)
+39°48N	74°06W	Forked River	New Jersey	United States
+39°47N	30°31E	Eskisehir	N/A	Turkey
+39°46N	86°09W	Indianapolis	Indiana	United States
+39°44N	104°59W	Denver	Colorado	United States
+39°43N	140°07E	Akita	Akita	Japan
+39°41N	141°09E	Morioka	Iwate	Japan
+39°34N	2°39E	Palma	Balearic Islands	Spain
+39°32N	119°49W	Reno	Nevada	United States
+39°28N	31°14W	Flores Island	Azores	Portugal
+39°28N	0°23W	Valencia	Valencian Community	Spain
+39°17N	76°37W	Baltimore	Maryland	United States
+39°15N	9°03E	Cagliari	Sardinia	Italy
+39°10N	75°32W	Dover	Delaware	United States
+39°09N	127°27E	Wonsan	Kangwon	North Korea
+39°08N	117°11E	Tianjin	N/A	People's Republic of China
+39°06N	84°31W	Cincinnati	Ohio	United States
+39°06N	94°35W	Kansas City	Missouri	United States
+39°01N	125°44E	Pyongyang	N/A	North Korea
+38°59N	1°26E	Ibiza	Balearic Islands	Spain
+38°55N	121°38E	Dalian	Liaoning	People's Republic of China
+38°54N	77°02W	Washington	District of Columbia	United States
+38°43N	9°08W	Lisbon	N/A	Portugal
+38°38N	90°12W	St. Louis	Missouri	United States
+38°35N	28°43W	Horta	Azores	Portugal
+38°33N	121°28W	Sacramento	California	United States
+38°32N	68°47E	Dushanbe	N/A	Tajikistan
+38°29N	27°13W	Angra do Heroísmo	Azores	Portugal
+38°28N	23°36E	Halkida	N/A	Greece
+38°26N	27°09E	zmir	N/A	Turkey
+38°21N	81°38W	Charleston	West Virginia	United States
+38°20N	0°28W	Alicante	Valencian Community	Spain
+38°16N	140°52E	Sendai	Miyagi	Japan
+38°15N	85°46W	Louisville	Kentucky	United States
+38°15N	140°20E	Yamagata	Yamagata	Japan
+38°11N	15°33E	Messina	Sicily	Italy
+38°07N	13°22E	Palermo	Sicily	Italy
+38°04N	46°18E	Tabriz	N/A	Iran
+38°03N	114°30E	Shijiazhuang	Hebei	People's Republic of China
+38°01N	12°30E	Trapani	Sicily	Italy
+37°58N	23°43E	Athena	N/A	Greece
+37°58N	126°33E	Kaesong	North Hwanghae	North Korea
+37°56N	58°22E	Ashgabat	N/A	Turkmenistan
+37°55N	139°02E	Niigata	Niigata	Japan
+37°52N	112°34E	Taiyuan	Shanxi	People's Republic of China
+37°52N	32°29E	Konya	N/A	Turkey
+37°49N	25°45W	Ponta Delgada	Azores	Portugal
+37°48N	122°16W	Oakland	California	United States
+37°47N	122°25W	San Francisco	California	United States
+37°46N	140°28E	Fukushima	Fukushima	Japan
+37°41N	97°20W	Wichita	Kansas	United States
+37°34N	126°59E	Seoul	N/A	South Korea
+37°20N	121°53W	San Jose	California	United States
+37°30N	15°05E	Catania	Sicily	Italy
+37°29N	126°38E	Incheon	N/A	South Korea
+37°23N	5°59W	Sevilla	Andalusia	Spain
+37°13N	28°22E	Mugla	N/A	Turkey
+37°12N	93°17W	Springfield	Missouri	United States
+37°04N	37°23E	Gaziantep	N/A	Turkey
+37°00N	35°19E	Adana	N/A	Turkey
+36°51N	75°59W	Virginia Beach	Virginia	United States
+36°50N	2°28W	Almería	Andalusia	Spain
+36°48N	10°11E	Tunis	N/A	Tunisia
+36°48N	34°38E	Mersin	N/A	Turkey
+36°46N	3°13E	Algiers	N/A	Algeria
+36°43N	4°25W	Málaga	Andalusia	Spain
+36°42N	137°13E	Toyama	Toyama	Japan
+36°40N	116°59E	Jinan	Shandong	People's Republic of China
+36°38N	138°11E	Nagano	Nagano	Japan
+36°38N	101°46E	Xining	Qinghai	People's Republic of China
+36°36N	114°29E	Handan	Hebei	People's Republic of China
+36°34N	136°39E	Kanazawa	Ishikawa	Japan
+36°33N	139°53E	Utsunomiya	Tochigi	Japan
+36°23N	139°04E	Maebashi	Gunma	Japan
+36°22N	140°28E	Mito	Ibaraki	Japan
+36°20N	43°08E	Mosul	N/A	Iraq
+36°18N	59°36E	Mashhad	N/A	Iran
+36°11N	44°01E	Arbil	Iraqi Kurdistan	Iraq
+36°11N	115°08W	Las Vegas	Nevada	United States
+36°10N	86°47W	Nashville	Tennessee	United States
+36°08N	5°21W	Gibraltar	Gibraltar	United Kingdom
+36°08N	95°56W	Tulsa	Oklahoma	United States
+36°04N	136°13E	Fukui	Fukui	Japan
+36°04N	120°23E	Qingdao	Shandong	People's Republic of China
+36°02N	103°48E	Lanzhou	Gansu	People's Republic of China
+35°58N	83°57W	Knoxville	Tennessee	United States
+35°54N	14°31E	Valletta	N/A	Malta
+35°54N	14°28E	Birkirkara	N/A	Malta
+35°53N	106°18W	Los Alamos	New Mexico	United States
+35°52N	128°36E	Daegu	N/A	South Korea
+35°51N	139°38E	Saitama	Saitama	Japan
+35°49N	78°39W	Raleigh	North Carolina	United States
+35°46N	5°48W	Tangier	Tangier-Assilah	Morocco
+35°42N	51°25E	Tehran	Tehran	Iran
+35°41N	139°42E	Tokyo	N/A	Japan
+35°40N	105°58W	Santa Fe	New Mexico	United States
+35°40N	138°34E	Kfu	Yamanashi	Japan
+35°36N	140°06E	Chiba	Chiba	Japan
+35°31N	35°47E	Latakia	N/A	Syria
+35°31N	139°42E	Kawasaki	Kanagawa	Japan
+35°30N	134°14E	Tottori	Tottori	Japan
+35°29N	97°32W	Oklahoma City	Oklahoma	United States
+35°28N	133°03E	Matsue	Shimane	Japan
+35°28N	44°19E	Kirkuk	N/A	Iraq
+35°27N	139°38E	Yokohama	Kanagawa	Japan
+35°25N	136°46E	Gifu	Gifu	Japan
+35°22N	1°19E	Tiaret	N/A	Algeria
+35°20N	25°08E	Heraklion	N/A	Greece
+35°17N	2°56W	Melilla	Melilla	Spain
+35°14N	80°51W	Charlotte	North Carolina	United States
+35°11N	136°54E	Nagoya	Aichi	Japan
+35°11N	129°05E	Busan	N/A	South Korea
+35°10N	33°22E	Nicosia	N/A	Cyprus
+35°07N	89°58W	Memphis	Tennessee	United States
+35°07N	106°37W	Albuquerque	New Mexico	United States
+35°01N	135°51E	tsu	Shiga	Japan
+35°01N	135°46E	Kyoto	Kyoto	Japan
+34°59N	138°23E	Shizuoka	Shizuoka	Japan
+34°46N	113°39E	Zhengzhou	Henan	People's Republic of China
+34°44N	92°20W	Little Rock	Arkansas	United States
+34°44N	10°46E	Sfax	N/A	Tunisia
+34°43N	136°30E	Tsu	Mie	Japan
+34°42N	135°30E	Osaka	Osaka	Japan
+34°41N	135°12E	Kbe	Hyogo	Japan
+34°41N	135°48E	Nara	Nara	Japan
+34°39N	133°55E	Okayama	Okayama	Japan
+34°32N	69°10E	Kabul	N/A	Afghanistan
+34°26N	119°43W	Santa Barbara	California	United States
+34°23N	132°27E	Hiroshima	Hiroshima	Japan
+34°21N	134°03E	Takamatsu	Kagawa	Japan
+34°16N	108°54E	Xi'an	Shaanxi	People's Republic of China
+34°14N	135°10E	Wakayama	Wakayama	Japan
+34°13N	77°55W	Wilmington	North Carolina	United States
+34°11N	131°28E	Yamaguchi	Yamaguchi	Japan
+34°05N	49°41E	Arak	Markazi	Iran
+34°05N	74°47E	Srinagar	Jammu and Kashmir	India
+34°04N	134°33E	Tokushima	Tokushima	Japan
+34°03N	118°15W	Los Angeles	California	United States
+34°02N	6°50W	Rabat	N/A	Morocco
+34°01N	71°35E	Peshawar	Khyber Pakhtunkhwa	Pakistan
+34°00N	81°03W	Columbia	South Carolina	United States
+33°57N	117°24W	Riverside	California	United States
+33°53N	35°31E	Beirut	N/A	Lebanon
+33°50N	132°46E	Matsuyama	Ehime	Japan
+33°45N	84°23W	Atlanta	Georgia	United States
+33°43N	73°04E	Islamabad	Islamabad Capital Territory	Pakistan
+33°39N	86°49W	Birmingham	Alabama	United States
+33°36N	73°02E	Rawalpindi	Punjab	Pakistan
+33°35N	130°24E	Fukuoka	Fukuoka	Japan
+33°34N	133°32E	Kchi	Kchi	Japan
+33°32N	7°35W	Casablanca	N/A	Morocco
+33°31N	36°18E	Damascus	N/A	Syria
+33°27N	112°04W	Phoenix	Arizona	United States
+33°34N	101°51W	Lubbock	Texas	United States
+33°20N	44°26E	Baghdad	N/A	Iraq
+33°16N	130°18E	Saga	Saga	Japan
+33°14N	131°36E	ita	ita	Japan
+32°54N	13°11E	Tripoli	N/A	Libya
+32°47N	79°56W	Charleston	South Carolina	United States
+32°47N	96°48W	Dallas	Texas	United States
+32°47N	129°52E	Nagasaki	Nagasaki	Japan
+32°47N	130°44E	Kumamoto	Kumamoto	Japan
+32°43N	117°10W	San Diego	California	United States
+32°40N	115°28W	Mexicali	Baja California	Mexico
+32°39N	16°55W	Funchal	Madeira	Portugal
+32°38N	115°33W	El Centro	California	United States
+32°38N	51°39E	Isfahan	N/A	Iran
+32°37N	41°02E	Karbala	N/A	Iraq
+32°34N	75°58E	Dalhousie	Himachal Pradesh	India
+32°32N	117°02W	Tijuana	Baja California	Mexico
+32°28N	93°42W	Shreveport	Louisiana	United States
+32°18N	90°11W	Jackson	Mississippi	United States
+32°18N	64°47W	Hamilton	Bermuda	United Kingdom
+32°13N	110°56W	Tucson	Arizona	United States
+32°07N	20°04E	Benghazi	N/A	Libya
+32°04N	34°47E	Tel Aviv	N/A	Israel
+32°03N	118°46E	Nanjing	Jiangsu	People's Republic of China
+32°00N	44°22E	Najaf	N/A	Iraq
+31°56N	35°56E	Amman	N/A	Jordan
+31°55N	131°25E	Miyazaki	Miyazaki	Japan
+31°54N	35°12E	Ramallah	West Bank	Palestine
+31°51N	116°36W	Ensenada	Baja California	Mexico
+31°47N	106°25W	El Paso	Texas	United States
+31°47N	35°13E	Jerusalem	N/A	Israel Palestine (disputed)
+31°44N	106°29W	Ciudad Juárez	Chihuahua	Mexico
+31°38N	74°52E	Amritsar	Punjab	India
+31°38N	8°01W	Marrakech	N/A	Morocco
+31°37N	65°43E	Kandahar	N/A	Afghanistan
+31°36N	130°33E	Kagoshima	Kagoshima	Japan
+31°33N	74°21E	Lahore	Punjab	Pakistan
+31°31N	34°27E	Gaza	Gaza Strip	Palestine
+31°25N	73°05E	Faisalabad	Punjab	Pakistan
+31°15N	32°17E	Port Said	N/A	Egypt
+31°12N	29°55E	Alexandria	N/A	Egypt
+31°12N	121°30E	Shanghai	N/A	People's Republic of China
+31°06N	77°10E	Shimla	Himachal Pradesh	India
+30°55N	75°51E	Ludhiana	Punjab	India
+30°45N	76°47E	Chandigarh	N/A	India
+30°42N	88°03W	Mobile	Alabama	United States
+30°40N	104°04E	Chengdu	Sichuan	People's Republic of China
+30°35N	114°17E	Wuhan	Hubei	People's Republic of China
+30°30N	47°49E	Basra	N/A	Iraq
+30°26N	9°36W	Agadir	Agadir Prefecture	Morocco
+30°20N	81°40W	Jacksonville	Florida	United States
+30°15N	97°45W	Austin	Texas	United States
+30°15N	120°10E	Hangzhou	Zhejiang	People's Republic of China
+30°12N	71°28E	Multan	Punjab	Pakistan
+30°03N	31°14E	Cairo	N/A	Egypt
+29°58N	90°03W	New Orleans	Louisiana	United States
+29°58N	32°33E	Suez	N/A	Egypt
+29°46N	95°23W	Houston	Texas	United States
+29°39N	91°06E	Lhasa	Tibet	People's Republic of China
+29°34N	106°34E	Chongqing	N/A	People's Republic of China
+29°33N	34°57E	Eilat	N/A	Israel
+29°25N	98°30W	San Antonio	Texas	United States
+29°22N	47°59E	Kuwait City	N/A	Kuwait
+29°16N	88°53E	Shigatse	Tibet	People's Republic of China
+29°06N	110°57W	Hermosillo	Sonora	Mexico
+28°38N	106°05W	Chihuahua	Chihuahua	Mexico
+28°37N	77°13E	New Delhi	Delhi	India
+28°28N	16°15W	Santa Cruz de Tenerife	Canary Islands	Spain
+28°25N	81°18W	Orlando	Florida	United States
+28°09N	15°25W	Las Palmas de Gran Canaria	Canary Islands	Spain
+27°57N	82°28W	Tampa	Florida	United States
+27°44N	97°24W	Corpus Christi	Texas	United States
+27°44N	15°34W	Maspalomas	Canary Islands	Spain
+27°42N	85°20E	Kathmandu	N/A	Nepal
+27°29N	95°00E	Dibrugarh	Assam	India
+27°28N	89°39E	Thimphu	N/A	Bhutan
+27°20N	88°37E	Gangtok	Sikkim	India
+27°11N	78°01E	Agra	Uttar Pradesh	India
+27°09N	13°12W	El Aaiún	Western Sahara	Morocco Western Sahara (disputed)
+27°02N	14°26E	Sabha	N/A	Libya
+26°56N	75°49E	Jaipur	Rajasthan	India
+26°51N	80°57E	Lucknow	Uttar Pradesh	India
+26°43N	88°26E	Siliguri	West Bengal	India
+26°38N	92°48E	Tezpur	Assam	India
+26°28N	80°20E	Kanpur	Uttar Pradesh	India
+26°17N	50°12E	Dammam	N/A	Saudi Arabia
+26°13N	127°41E	Naha	Okinawa	Japan
+26°13N	50°35E	Manama	N/A	Bahrain
+26°12N	91°44E	Guwahati	Assam	India
+25°55N	97°29W	Brownsville	Texas	United States
+25°47N	80°13W	Miami	Florida	United States
+25°41N	32°39E	Luxor	N/A	Egypt
+25°40N	100°18W	Monterrey	Nuevo León	Mexico
+25°37N	85°09E	Patna	Bihar	India
+25°34N	91°53E	Shillong	Meghalaya	India
+25°32N	103°27W	Torreón	Coahuila	Mexico
+25°19N	79°38E	Kulpahar	Uttar Pradesh	India
+25°17N	51°32E	Doha	N/A	Qatar
+25°15N	55°18E	Dubai	Dubai	United Arab Emirates
+25°23N	68°22E	Hyderabad	Sindh	Pakistan
+25°04N	77°20W	Nassau	N/A	Bahamas
+25°04N	102°41E	Kunming	Yunnan	People's Republic of China
+25°02N	121°38E	Taipei	N/A	Republic of China (Taiwan)
+24°52N	67°01E	Karachi	Sindh	Pakistan
+24°48N	107°23W	Culiacán	Sinaloa	Mexico
+24°38N	46°43E	Riyadh	N/A	Saudi Arabia
+24°34N	81°47W	Key West	Florida	United States
+24°28N	39°36E	Medina	N/A	Saudi Arabia
+24°28N	54°22E	Abu Dhabi	Abu Dhabi	United Arab Emirates
+24°12N	55°44E	Al Ain	Abu Dhabi	United Arab Emirates
+24°09N	120°40E	Taichung	N/A	Republic of China (Taiwan)
+24°01N	104°40W	Durango	Durango	Mexico
+23°50N	91°16E	Agartala	Tripura	India
+23°42N	90°23E	Dhaka	N/A	Bangladesh
+23°37N	58°36E	Muscat	N/A	Oman
+23°08N	82°23W	Havana	N/A	Cuba
+23°08N	113°16E	Guangzhou	Guangdong	People's Republic of China
+23°02N	72°35E	Ahmedabad	Gujarat	India
+23°02N	113°43E	Dongguan	Guangdong	People's Republic of China
+22°59N	120°11E	Tainan	N/A	Republic of China (Taiwan)
+22°53N	109°55W	Cabo San Lucas	Baja California Sur	Mexico
+22°49N	108°19E	Nanning	Guangxi	People's Republic of China
+22°38N	120°16E	Kaohsiung	N/A	Republic of China (Taiwan)
+22°34N	88°22E	Kolkata (Calcutta)	West Bengal	India
+22°33N	114°06E	Shenzhen	Guangdong	People's Republic of China
+22°22N	91°48E	Chittagong	N/A	Bangladesh
+22°17N	114°10E	Hong Kong	Hong Kong	People's Republic of China
+22°15N	97°52W	Tampico	Tamaulipas	Mexico
+22°10N	113°33E	Macau	Macau	People's Republic of China
+22°09N	100°51W	San Luis Potosí	San Luis Potosí	Mexico
+21°53N	102°18W	Aguascalientes	Aguascalientes	Mexico
+21°33N	39°10E	Jeddah	N/A	Saudi Arabia
+21°28N	71°08W	Cockburn Town	Turks and Caicos Islands	United Kingdom
+21°25N	39°49E	Mecca	N/A	Saudi Arabia
+21°19N	157°50W	Honolulu	Hawaii	United States
+21°15N	81°38E	Raipur	Chhattisgarh	India
+21°10N	86°51W	Cancún	Quintana Roo	Mexico
+21°10N	72°50E	Surat	Gujarat	India
+21°08N	79°05E	Nagpur	Maharashtra	India
+21°07N	101°41W	León	Guanajuato	Mexico
+21°02N	105°51E	Hanoi	N/A	Vietnam
+20°58N	89°37W	Mérida	Yucatán	Mexico
+20°51N	106°41E	Hai Phong	N/A	Vietnam
+20°43N	103°24W	Zapopan	Jalisco	Mexico
+20°40N	105°16W	Puerto Vallarta	Jalisco	Mexico
+20°40N	103°21W	Guadalajara	Jalisco	Mexico
+20°35N	100°24W	Querétaro	Querétaro	Mexico
+20°04N	110°34E	Haikou	Hainan	People's Republic of China
+20°01N	75°49W	Santiago de Cuba	N/A	Cuba
+19°55N	99°50E	Chiang Rai	Chiang Rai Province	Thailand
+19°45N	96°06E	Naypyidaw	N/A	Myanmar
+19°42N	155°05W	Hilo	Hawaii	United States
+19°26N	99°08W	Mexico City	N/A	Mexico
+19°18N	81°23W	George Town	Cayman Islands	United Kingdom
+19°11N	96°09W	Veracruz	Veracruz	Mexico
+19°03N	98°13W	Puebla	Puebla	Mexico
+18°59N	72°50E	Mumbai	Maharashtra	India
+18°48N	99°00E	Chiang Mai	Chiang Mai Province	Thailand
+18°32N	72°20W	Port-au-Prince	N/A	Haiti
+18°31N	73°51E	Pune	Maharashtra	India
+18°28N	69°57W	Santo Domingo	N/A	Dominican Republic
+18°27N	66°04W	San Juan	Puerto Rico	United States
+18°26N	64°37W	Road Town	British Virgin Islands	United Kingdom
+18°21N	64°57W	Charlotte Amalie	United States Virgin Islands	United States
+18°13N	63°03W	The Valley	Anguilla	United Kingdom
+18°06N	15°57W	Nouakchott	N/A	Mauritania
+17°59N	76°48W	Kingston	N/A	Jamaica
+17°58N	102°36E	Vientiane	N/A	Laos
+17°41N	83°13E	Visakhapatnam	Andhra Pradesh	India
+17°30N	88°11W	Belize City	N/A	Belize
+17°25N	102°45E	Udon Thani	N/A	Thailand
+17°22N	78°29E	Hyderabad	Telangana	India
+17°18N	62°44W	Basseterre	N/A	Saint Kitts and Nevis
+17°15N	88°46W	Belmopan	N/A	Belize
+17°07N	61°51W	St. John's	N/A	Antigua and Barbuda
+17°01N	54°05E	Salalah	N/A	Oman
+16°52N	99°53W	Acapulco	Guerrero	Mexico
+16°48N	96°09E	Yangon	N/A	Myanmar
+16°47N	3°01W	Timbuktu	N/A	Mali
+16°28N	107°35E	Hu	N/A	Vietnam
+16°26N	102°50E	Khon Kaen	N/A	Thailand
+16°04N	108°14E	Da Nang	N/A	Vietnam
+16°00N	61°44W	Basse-Terre	Guadeloupe	France
+15°39N	32°29E	Omdurman	N/A	Sudan
+15°38N	32°32E	Khartoum	N/A	Sudan
+15°21N	44°12E	Sana'a	N/A	Yemen
+15°20N	38°56E	Asmara	N/A	Eritrea
+15°18N	61°23W	Roseau	N/A	Dominica
+15°11N	145°45E	Saipan	Northern Mariana Islands	United States
+15°11N	108°53E	Son My	N/A	Vietnam
+14°59N	102°06E	Nakhon Ratchasima	N/A	Thailand
+14°55N	23°31W	Praia	N/A	Cape Verde
+14°54N	92°16W	Tapachula	Chiapas	Mexico
+14°50N	91°31W	Quetzaltenango	N/A	Guatemala
+14°47N	16°55W	Thiès	N/A	Senegal
+14°42N	17°27W	Dakar	N/A	Senegal
+14°38N	121°02E	Quezon City	National Capital Region	Philippines
+14°37N	90°32W	Guatemala City	N/A	Guatemala
+14°36N	61°05W	Fort-de-France	Martinique	France
+14°35N	120°58E	Manila	National Capital Region	Philippines
+14°33N	121°02E	Makati	National Capital Region	Philippines
+14°21N	100°34E	Ayutthaya	N/A	Thailand
+14°06N	87°13W	Tegucigalpa	N/A	Honduras
+14°01N	60°59W	Castries	N/A	Saint Lucia
+13°45N	100°28E	Bangkok	N/A	Thailand
+13°41N	89°11W	San Salvador	N/A	El Salvador
+13°31N	2°06E	Niamey	N/A	Niger
+13°31N	144°50E	Dededo	Guam	United States
+13°29N	144°45E	Hagåtña	Guam	United States
+13°27N	16°35W	Banjul	N/A	Gambia
+13°26N	16°40W	Serekunda	N/A	Gambia
+13°22N	103°52E	Siem Reap	N/A	Cambodia
+13°16N	16°39W	Brikama	N/A	Gambia
+13°09N	61°14W	Kingstown	N/A	Saint Vincent and the Grenadines
+13°06N	59°37W	Bridgetown	N/A	Barbados
+13°05N	80°16E	Chennai (Madras)	Tamil Nadu	India
+12°58N	77°34E	Bangalore	Karnataka	India
+12°56N	100°53E	Pattaya	N/A	Thailand
+12°52N	7°34W	Koulikoro	N/A	Mali
+12°39N	8°00W	Bamako	N/A	Mali
+12°37N	87°09W	Chinandega	N/A	Nicaragua
+12°31N	70°02W	Oranjestad	Aruba	Netherlands
+12°21N	1°32W	Ouagadougou	N/A	Burkina Faso
+12°08N	86°15W	Managua	N/A	Nicaragua
+12°07N	68°56W	Willemstad	Curaçao	Netherlands
+12°07N	15°03E	N'Djamena	N/A	Chad
+12°03N	61°45W	St. George's	N/A	Grenada
+12°00N	8°31E	Kano	N/A	Nigeria
+11°51N	15°34W	Bissau	N/A	Guinea-Bissau
+11°40N	92°46E	Port Blair	Andaman and Nicobar Islands	India
+11°35N	43°09E	Djibouti	N/A	Djibouti
+11°33N	104°55E	Phnom Penh	N/A	Cambodia
+11°11N	4°17W	Bobo-Dioulasso	N/A	Burkina Faso
+10°58N	74°48W	Barranquilla	N/A	Colombia
+10°46N	106°41E	Ho Chi Minh City	N/A	Vietnam
+10°43N	122°34E	Iloilo City	Iloilo	Philippines
+10°40N	61°31W	Port of Spain	N/A	Trinidad and Tobago
+10°39N	71°38W	Maracaibo	N/A	Venezuela
+10°38N	85°26W	Liberia	N/A	Costa Rica
+10°30N	66°55W	Caracas	N/A	Venezuela
+10°30N	61°23W	Chaguanas	N/A	Trinidad and Tobago
+10°24N	75°30W	Cartagena	N/A	Colombia
+10°17N	61°28W	San Fernando	N/A	Trinidad and Tobago
+10°17N	123°54E	Cebu City	Cebu	Philippines
+10°15N	67°36W	Maracay	N/A	Venezuela
+10°11N	68°00W	Valencia	Carabobo	Venezuela
+10°01N	84°13W	Alajuela	N/A	Costa Rica
+9°59N	83°02W	Limón	N/A	Costa Rica
+9°40N	80°00E	Jaffna	N/A	Sri Lanka
+9°34N	44°04E	Hargeisa	Somaliland	Somalia
+9°58N	84°50W	Puntarenas	N/A	Costa Rica
+9°58N	76°17E	Kochi	Kerala	India
+9°56N	84°05W	San José	N/A	Costa Rica
+9°39N	123°51E	Tagbilaran	Northern Samar	Philippines
+9°31N	13°43W	Conakry	N/A	Guinea
+9°24N	0°51W	Tamale	N/A	Ghana
+9°08N	99°20E	Surat Thani	N/A	Thailand
+9°04N	7°29E	Abuja	N/A	Nigeria
+9°02N	38°44E	Addis Ababa	N/A	Ethiopia
+8°59N	79°31W	Panama City	N/A	Panama
+8°35N	71°08W	Mérida	Mérida	Venezuela
+8°34N	16°05E	Moundou	N/A	Chad
+8°29N	76°57E	Trivandrum	Kerala	India
+8°29N	13°14W	Freetown	N/A	Sierra Leone
+8°07N	63°33W	Ciudad Bolívar	N/A	Venezuela
+7°54N	72°30W	Cúcuta	N/A	Colombia
+7°53N	98°24E	Phuket	N/A	Thailand
+7°45N	72°13W	San Cristóbal	Táchira	Venezuela
+7°45N	8°49W	Nzérékoré	N/A	Guinea
+7°43N	81°42E	Batticaloa	N/A	Sri Lanka
+7°29N	134°36E	Melekeok	N/A	Palau
+7°27N	151°51E	Weno	N/A	Federated States of Micronesia
+7°24N	3°55E	Ibadan	N/A	Nigeria
+7°22N	134°29E	Koror	N/A	Palau
+7°18N	80°38E	Kandy	N/A	Sri Lanka
+7°04N	171°16E	Majuro	N/A	Marshall Islands
+7°04N	125°36E	Davao City	Davao del Norte	Philippines
+7°01N	100°28E	Hat Yai	N/A	Thailand
+6°56N	79°51E	Colombo	N/A	Sri Lanka
+6°55N	158°10E	Palikir	N/A	Federated States of Micronesia
+6°55N	79°53E	Sri Jayawardenapura-Kotte	N/A	Sri Lanka
+6°54N	122°04E	Zamboanga City	Zamboanga del Sur	Philippines
+6°49N	5°17W	Yamoussoukro	N/A	Ivory Coast
+6°48N	58°10W	Georgetown	N/A	Guyana
+6°40N	1°37W	Kumasi	N/A	Ghana
+6°30N	2°36E	Porto-Novo	N/A	Benin
+6°27N	3°24E	Lagos	N/A	Nigeria
+6°27N	7°31E	Enugu	N/A	Nigeria
+6°22N	2°26E	Cotonou	N/A	Benin
+6°19N	5°36E	Benin City	N/A	Nigeria
+6°19N	10°48W	Monrovia	N/A	Liberia
+6°14N	75°35W	Medellín	N/A	Colombia
+6°08N	1°13E	Lomé	N/A	Togo
+6°08N	102°15E	Kota Bharu	Kelantan	Malaysia
+6°07N	100°22E	Alor Setar	Kedah	Malaysia
+5°58N	116°06E	Kota Kinabalu	Sabah	Malaysia
+5°52N	55°10W	Paramaribo	N/A	Suriname
+5°40N	67°38W	Puerto Ayacucho	N/A	Venezuela
+5°33N	0°12W	Accra	Greater Accra	Ghana
+5°33N	95°19E	Banda Aceh	Aceh	Indonesia
+5°25N	100°19E	George Town	Penang	Malaysia
+5°19N	4°02W	Abidjan	N/A	Ivory Coast
+4°55N	52°20W	Cayenne	French Guiana	France
+4°55N	1°46W	Sekondi-Takoradi	N/A	Ghana
+4°53N	114°57E	Bandar Seri Begawan	N/A	Brunei
+4°51N	31°36E	Juba	N/A	South Sudan
+4°45N	7°00E	Port Harcourt	N/A	Nigeria
+4°36N	101°04E	Ipoh	Perak	Malaysia
+4°36N	74°05W	Bogotá	N/A	Colombia
+4°24N	114°00E	Miri	Sarawak	Malaysia
+4°22N	18°35E	Bangui	N/A	Central African Republic
+4°11N	73°31E	Malé	N/A	Maldives
+4°03N	9°42E	Douala	N/A	Cameroon
+3°52N	11°31E	Yaoundé	N/A	Cameroon
+3°45N	8°47E	Malabo	N/A	Equatorial Guinea
+3°35N	98°40E	Medan	North Sumatera	Indonesia
+3°25N	76°31W	Santiago de Cali	N/A	Colombia
+3°09N	101°42E	Kuala Lumpur	Federal Territory	Malaysia
+2°49N	60°40W	Boa Vista	Roraima	Brazil
+2°12N	102°15E	Malacca Town	Malacca	Malaysia
+2°02N	45°21E	Mogadishu	N/A	Somalia
+1°34N	110°21E	Kuching	Sarawak	Malaysia
+1°29N	103°44E	Johor Bahru	Johor	Malaysia
+1°26N	173°00E	South Tarawa	N/A	Kiribati
+1°17N	103°50E	Singapore	N/A	Singapore
+0°32N	101°27E	Pekanbaru	Riau	Indonesia
+0°23N	9°27E	Libreville	N/A	Gabon
+0°20N	6°41E	São Tomé	N/A	São Tomé and Príncipe
+0°19N	32°35E	Kampala	N/A	Uganda
+0°03N	32°28E	Entebbe	N/A	Uganda
+0°03N	18°15E	Mbandaka	Équateur	Democratic Republic of the Congo
+0°02N	51°04W	Macapá	Amapá	Brazil
+0°01S	109°20E	Pontianak	West Kalimantan	Indonesia
+0°15S	78°35W	Quito	Pichincha	Ecuador
+0°21S	42°33E	Kismayo	N/A	Somalia
+0°33S	166°55E	Yaren District	N/A	Nauru
+0°57S	100°21E	Padang	West Sumatera	Indonesia
+1°16S	116°50E	Balikpapan	East Kalimantan	Indonesia
+1°17S	36°49E	Nairobi	N/A	Kenya
+1°27S	48°30W	Belém	Pará	Brazil
+1°57S	30°04E	Kigali	N/A	Rwanda
+2°11S	79°53W	Guayaquil	N/A	Ecuador
+2°31S	32°54E	Mwanza	N/A	Tanzania
+2°32S	44°18W	São Luís	Maranhão	Brazil
+2°32S	140°43E	Jayapura	Papua	Indonesia
+2°59S	104°45E	Palembang	South Sumatera	Indonesia
+3°06S	60°01W	Manaus	Amazonas	Brazil
+3°23S	29°22E	Bujumbura	N/A	Burundi
+3°40S	40°14W	Sobral	Ceará	Brazil
+3°42S	128°10E	Ambon	Maluku	Indonesia
+3°43S	38°33W	Fortaleza	Ceará	Brazil
+3°44S	73°15W	Iquitos	N/A	Peru
+3°51S	32°25W	Fernando de Noronha	Pernambuco	Brazil
+4°03S	39°40E	Mombasa	N/A	Kenya
+4°16S	15°18E	Brazzaville	N/A	Republic of the Congo
+4°20S	15°19E	Kinshasa	N/A	Democratic Republic of the Congo
+4°37S	55°27E	Victoria	N/A	Seychelles
+5°06S	42°48W	Teresina	Piauí	Brazil
+5°08S	119°25E	Makassar	South Sulawesi	Indonesia
+5°32S	47°29W	Imperatriz	Maranhão	Brazil
+5°47S	35°12W	Natal	Rio Grande do Norte	Brazil
+6°10S	39°12E	Zanzibar City	N/A	Tanzania
+6°10S	35°45E	Dodoma	N/A	Tanzania
+6°12S	106°48E	Jakarta	Jakarta	Indonesia
+6°36S	106°48E	Bogor	West Java	Indonesia
+6°48S	39°17E	Dar es Salaam	N/A	Tanzania
+6°55S	107°37E	Bandung	West Java	Indonesia
+6°58S	110°25E	Semarang	Central Java	Indonesia
+7°05S	34°50W	João Pessoa	Paraíba	Brazil
+7°12S	39°20W	Juazeiro do Norte	Ceará	Brazil
+7°14S	35°53W	Campina Grande	Paraíba	Brazil
+7°16S	112°45E	Surabaya	East Java	Indonesia
+7°48S	110°22E	Yogyakarta	Special Region of Yogyakarta	Indonesia
+7°59S	112°37E	Malang	East Java	Indonesia
+8°03S	34°54W	Recife	Pernambuco	Brazil
+8°07S	79°02W	Trujillo	N/A	Peru
+8°17S	35°59W	Caruaru	Pernambuco	Brazil
+8°31S	179°13E	Funafuti	N/A	Tuvalu
+8°33S	125°35E	Dili	N/A	Timor-Leste
+8°39S	115°13E	Denpasar	Bali	Indonesia
+8°46S	63°54W	Porto Velho	Rondônia	Brazil
+8°50S	13°14E	Luanda	N/A	Angola
+8°53S	36°30W	Garanhuns	Pernambuco	Brazil
+9°23S	179°51E	Nukulaelae	N/A	Tuvalu
+9°24S	40°30W	Petrolina	Pernambuco	Brazil
+9°28S	159°49E	Honiara	N/A	Solomon Islands
+9°31S	147°13E	Port Moresby	N/A	Papua New Guinea
+9°40S	35°44W	Maceió	Alagoas	Brazil
+9°58S	67°49W	Rio Branco	Acre	Brazil
+10°55S	37°03W	Aracaju	Sergipe	Brazil
+10°11S	48°20W	Palmas	Tocantins	Brazil
+11°40S	27°28E	Lubumbashi	N/A	Democratic Republic of the Congo
+11°45S	43°12E	Moroni	N/A	Comoros
+11°51S	55°39W	Sinop	Mato Grosso	Brazil
+12°03S	77°02W	Lima	Lima Province	Peru
+12°27S	130°50E	Darwin	Northern Territory	Australia
+12°46S	15°44E	Huambo	N/A	Angola
+12°47S	45°14E	Mamoudzou	Mayotte	France
+12°58S	28°38E	Ndola	N/A	Zambia
+12°58S	38°29W	Salvador	Bahia	Brazil
+13°10S	74°13W	Ayacucho	N/A	Peru
+13°17S	176°11W	Mata-Utu	Wallis and Futuna	France
+13°32S	71°58W	Cusco	N/A	Peru
+13°50S	171°45W	Apia	N/A	Samoa
+13°59S	33°47E	Lilongwe	N/A	Malawi
+14°17S	170°42W	Pago Pago	American Samoa	United States
+14°47S	39°03W	Ilhéus	Bahia	Brazil
+15°25S	28°17E	Lusaka	N/A	Zambia
+15°36S	56°06W	Cuiabá	Mato Grosso	Brazil
+15°47S	35°00E	Blantyre	Southern Region	Malawi
+15°48S	47°52W	Brasília	Distrito Federal	Brazil
+15°55S	5°43W	Jamestown	Saint Helena	United Kingdom
+16°24S	71°32W	Arequipa	N/A	Peru
+16°26S	179°22E	Labasa	N/A	Fiji
+16°30S	180°00W	Rabi Island	N/A	Fiji
+16°30S	68°09W	La Paz	N/A	Bolivia
+16°40S	49°15W	Goiânia	Goiás	Brazil
+16°56S	145°47E	Cairns	Queensland	Australia
+17°32S	149°34W	Papeete	French Polynesia	France
+17°45S	168°18E	Port Vila	N/A	Vanuatu
+17°48S	63°10W	Santa Cruz de la Sierra	N/A	Bolivia
+17°51S	25°52E	Livingstone	N/A	Zambia
+17°52S	31°02E	Harare	Harare	Zimbabwe
+18°08S	178°27E	Suva	N/A	Fiji
+18°29S	70°20W	Arica	N/A	Chile
+18°51S	41°56W	Governador Valadares	Minas Gerais	Brazil
+18°55S	48°17W	Uberlândia	Minas Gerais	Brazil
+18°56S	47°31E	Antananarivo	N/A	Madagascar
+18°58S	32°38E	Mutare	Manicaland	Zimbabwe
+19°03S	65°15W	Sucre	N/A	Bolivia
+19°03S	169°55W	Alofi	Niue	New Zealand
+19°15S	146°49E	Townsville	Queensland	Australia
+19°27S	29°48E	Gweru	Midlands	Zimbabwe
+19°55S	43°56W	Belo Horizonte	Minas Gerais	Brazil
+20°10S	57°30E	Port Louis	N/A	Mauritius
+20°10S	28°35E	Bulawayo	Bulawayo	Zimbabwe
+20°13S	70°09W	Iquique	N/A	Chile
+20°19S	118°36E	Port Hedland	Western Australia	Australia
+20°19S	40°20W	Vitória	Espírito Santo	Brazil
+20°28S	54°37W	Campo Grande	Mato Grosso do Sul	Brazil
+20°48S	49°23W	São José do Rio Preto	São Paulo	Brazil
+20°53S	55°27E	Saint-Denis	Réunion	France
+21°08S	175°12W	Nukualofa	N/A	Tonga
+21°10S	27°31E	Francistown	N/A	Botswana
+21°11S	47°48W	Ribeirão Preto	São Paulo	Brazil
+21°12S	159°46W	Avarua	Cook Islands	New Zealand
+21°46S	43°21W	Juiz de Fora	Minas Gerais	Brazil
+21°47S	46°34W	Poços de Caldas	Minas Gerais	Brazil
+21°48S	48°11W	Araraquara	São Paulo	Brazil
+22°17S	166°27E	Nouméa	New Caledonia	France
+22°19S	49°04W	Bauru	São Paulo	Brazil
+22°28S	68°56W	Calama	N/A	Chile
+22°34S	17°05E	Windhoek	N/A	Namibia
+22°40S	50°25W	Assis	São Paulo	Brazil
+22°54S	47°03W	Campinas	São Paulo	Brazil
+22°55S	43°12W	Rio de Janeiro	Rio de Janeiro	Brazil
+23°11S	45°53W	São José dos Campos	São Paulo	Brazil
+23°23S	150°31E	Rockhampton	Queensland	Australia
+23°33S	46°38W	São Paulo	São Paulo	Brazil
+23°39S	70°24W	Antofagasta	N/A	Chile
+23°54S	29°27E	Polokwane	Limpopo	South Africa
+24°39S	25°55E	Gaborone	N/A	Botswana
+24°47S	65°25W	Salta	Salta	Argentina
+25°04S	130°06W	Adamstown	Pitcairn Islands	United Kingdom
+25°17S	57°38W	Asunción	N/A	Paraguay
+25°25S	49°15W	Curitiba	Paraná	Brazil
+25°28S	30°59E	Nelspruit	Mpumalanga	South Africa
+25°31S	54°37W	Ciudad del Este	N/A	Paraguay
+25°45S	28°11E	Pretoria	Gauteng	South Africa
+25°51S	25°38E	Mafikeng	North West	South Africa
+25°58S	32°35E	Maputo	N/A	Mozambique
+26°12S	28°03E	Johannesburg	Gauteng	South Africa
+26°19S	31°08E	Mbabane	N/A	Swaziland
+26°25S	31°10E	Lobamba	N/A	Swaziland
+26°29S	31°22E	Manzini	N/A	Swaziland
+26°49S	65°13W	San Miguel de Tucumán	Tucumán	Argentina
+27°09S	109°26W	Hanga Roa	Easter Island	Chile
+27°22S	70°20W	Copiapó	N/A	Chile
+27°28S	153°02E	Brisbane	Queensland	Australia
+27°29S	58°49W	Corrientes	Corrientes	Argentina
+27°50S	48°25W	Florianópolis	Santa Catarina	Brazil
+28°01S	153°24E	Gold Coast	Queensland	Australia
+28°45S	24°46E	Kimberley	Northern Cape	South Africa
+29°04S	167°58E	Kingston	Norfolk Island	Australia
+29°07S	26°13E	Bloemfontein	Free State	South Africa
+29°19S	27°29E	Maseru	N/A	Lesotho
+29°37S	30°23E	Pietermaritzburg	KwaZulu-Natal	South Africa
+29°53S	31°03E	Durban	KwaZulu-Natal	South Africa
+29°54S	71°15W	La Serena	N/A	Chile
+31°25S	64°11W	Córdoba	Córdoba	Argentina
+31°38S	60°42W	Santa Fe	Santa Fe	Argentina
+31°46S	52°21W	Pelotas	Rio Grande do Sul	Brazil
+31°57S	115°52E	Perth	Western Australia	Australia
+31°32S	68°32W	San Juan	San Juan	Argentina
+32°32S	115°43E	Mandurah	Western Australia	Australia
+32°51S	27°26E	Bhisho	Eastern Cape	South Africa
+32°53S	68°49W	Mendoza	Mendoza	Argentina
+32°55S	151°45E	Newcastle	New South Wales	Australia
+32°57S	60°40W	Rosario	Santa Fe	Argentina
+33°00S	71°31W	Viña del Mar	Valparaíso Region	Chile
+33°03S	71°37W	Valparaíso	Valparaíso Region	Chile
+33°27S	70°40W	Santiago	Santiago Metropolitan Region	Chile
+33°41S	53°27W	Chuí	Rio Grande do Sul	Brazil
+33°52S	151°13E	Sydney	New South Wales	Australia
+33°56S	18°25E	Cape Town	Western Cape	South Africa
+33°57S	25°36E	Port Elizabeth	Eastern Cape	South Africa
+34°26S	150°53E	Wollongong	New South Wales	Australia
+34°36S	58°23W	Buenos Aires		Argentina
+34°53S	56°11W	Montevideo	N/A	Uruguay
+34°56S	138°36E	Adelaide	South Australia	Australia
+35°18S	149°07E	Canberra	Australian Capital Territory	Australia
+36°50S	73°03W	Concepción	N/A	Chile
+36°50S	174°44E	Auckland	N/A	New Zealand
+37°04S	12°19W	Edinburgh of the Seven Seas	Tristan da Cunha	United Kingdom
+37°47S	175°17E	Hamilton	N/A	New Zealand
+37°49S	144°58E	Melbourne	Victoria	Australia
+38°00S	57°33W	Mar del Plata	Buenos Aires Province	Argentina
+38°09S	144°21E	Geelong	Victoria	Australia
+38°43S	62°16W	Bahía Blanca	Buenos Aires Province	Argentina
+38°45S	72°40W	Temuco	N/A	Chile
+38°57S	68°03W	Neuquén	Neuquén	Argentina
+39°39S	176°50E	Hastings	N/A	New Zealand
+39°49S	73°15W	Valdivia	N/A	Chile
+41°09S	71°18W	San Carlos de Bariloche	Río Negro	Argentina
+41°16S	173°17E	Nelson	N/A	New Zealand
+41°17S	174°47E	Wellington	Wellington Region	New Zealand
+41°28S	72°56W	Puerto Montt	Los Lagos	Chile
+41°26S	147°08E	"Launceston, Tasmania"	Tasmania	Australia
+42°53S	147°20E	Hobart	Tasmania	Australia
+43°15S	65°18W	Trelew	Chubut	Argentina
+43°32S	172°37E	Christchurch	Canterbury	New Zealand
+43°57S	176°33E	Waitangi	Chatham Islands	New Zealand
+45°24S	72°41W	Puerto Aisén	Aysén	Chile
+45°34S	72°04W	Coihaique	Aysén	Chile
+45°52S	67°29W	Comodoro Rivadavia	Chubut	Argentina
+45°52S	170°30E	Dunedin	Otago	New Zealand
+46°25S	168°21E	Invercargill	Southland	New Zealand
+51°38S	69°13W	Río Gallegos	Santa Cruz	Argentina
+51°42S	57°52W	Stanley	Falkland Islands	United Kingdom
+53°10S	70°56W	Punta Arenas	Magallanes	Chile
+54°17S	36°30W	Grytviken	South Georgia and the South Sandwich Islands	United Kingdom
+54°48S	68°18W	Ushuaia	Tierra del Fuego	Argentina
+54°56S	67°37W	Puerto Williams	Magallanes	Chile
+55°05S	67°05W	Puerto Toro	Magallanes	Chile
+62°12S	58°58W	Villa Las Estrellas	Antártica Chilena Province	Chile
+63°24S	56°59W	Esperanza	Argentine Antarctica	Argentina
+67°34S	68°08W	Rothera	British Antarctic Territory	United Kingdom
+75°06S	123°20W	Concordia	N/A	N/A
